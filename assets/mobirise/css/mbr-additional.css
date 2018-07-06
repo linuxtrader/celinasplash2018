@@ -1444,13 +1444,13 @@ body {
   background-color: #465052;
 }
 .cid-qUtZEJCYZ1 .navbar {
-  background: #465052;
+  background: #767676;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qUtZEJCYZ1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #767676;
 }
 .cid-qUtZEJCYZ1 a {
   font-style: normal;
@@ -1534,7 +1534,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qUtZEJCYZ1 .dropdown .dropdown-menu {
-  background: #465052;
+  background: #767676;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1605,7 +1605,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #c4bc3b;
+  background-color: #f7ed4a;
 }
 .cid-qUtZEJCYZ1 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1830,7 +1830,7 @@ body {
 }
 .cid-qUtZEJCYZ1 .nav-link:hover,
 .cid-qUtZEJCYZ1 .dropdown-item:hover {
-  color: #767676 !important;
+  color: #ffffff !important;
 }
 .cid-qUuWyjseOY {
   padding-top: 15px;
@@ -1916,7 +1916,7 @@ body {
   }
 }
 .cid-qU91rZCwL6 {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  background-image: url("../../../assets/images/dji-52-2000x1500.jpg");
 }
 .cid-qU91rZCwL6 .mbr-media span {
   font-size: 48px;
